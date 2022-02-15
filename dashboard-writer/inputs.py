@@ -1,9 +1,9 @@
 # -----------------------------------------------
 # specify your InfluxDB details
-influx_bucket = "influx_bucket_name"
-token = "influx_token"
-influx_url = "influx_endpoint"
-org_id = "influx_org_id"
+influx_bucket = "170F1ECF"
+token = "4IXNeehN_gXuIHONqdZzHzIcrQyy1Z4EBbln8WOJqxeWCmTNnWRg62VjRNFU32IVyWvM6ZDNrthvIryYINtKRw=="
+influx_url = "https://europe-west1-1.gcp.cloud2.influxdata.com"
+org_id = "117392db76c0b81c"
 
 # -----------------------------------------------
 # specify devices to process (from a local folder or S3 bucket)
